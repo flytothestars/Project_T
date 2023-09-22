@@ -1,4 +1,7 @@
-# vue_app
+# Project_T vue
+<p> Version </p><br>
+<p> npm - 10.1.0 </p><br>
+<p> node - v18.18.0 </p>
 
 ## Project setup
 ```
